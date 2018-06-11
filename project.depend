@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517101713 source:/home/ahmed/Desktop/project/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1516836216 /home/ahmed/Desktop/project/vehicle.h
+	<string>
+
+1516836745 source:/home/ahmed/Desktop/project/vehicle.cpp
+	"vehicle.h"
+	<iostream>
+
